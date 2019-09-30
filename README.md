@@ -45,3 +45,18 @@ To optimize the PatientBatchLoader application for production, run:
 To ensure everything worked, run:
 
     java -jar build/libs/*.war
+
+
+### Enlaces importantes
+
+* [Spring Batch Tutorial](https://www.briansdevblog.com/2014/04/spring-batch-tutorial/)
+
+* [Constellation Spring Batch](https://calmintrees.blogspot.com/2018/05/constellation-tatsu-spring-batch.html)
+
+* [How to execute un job](http://java-is-everywhere.blogspot.com/2016/11/how-to-execute-spring-batch-job.html)
+
+* [Spring Batch books](https://javarevisited.blogspot.com/2018/04/5-spring-framework-books-experienced-Java-developers-2018.html)
+
+* [Tutoriales](http://krams915.blogspot.com/p/tutorials.html)
+
+
