@@ -1,5 +1,7 @@
 # PatientBatchLoader
 
+![Spring Framework](https://1.bp.blogspot.com/-zv-NdfqVpws/XX0E7B-9HbI/AAAAAAAABvA/zniyto4IMEg0DZn_-CH19AmDt4R0PBDygCPcBGAYYCw/s1600/top-10-reasons-to-use-spring-framework-1.jpg)
+
 This application was originally generated using JHipster 4.13.0, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.0](http://www.jhipster.tech/documentation-archive/v4.13.0). After generation, I stripped out many of the features that were unnecessary for the Spring Batch example. 
 
 ## Dependencies
